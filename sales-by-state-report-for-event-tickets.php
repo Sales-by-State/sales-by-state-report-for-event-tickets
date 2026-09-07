@@ -5,13 +5,12 @@
  * Description:          See a yearly breakdown of Event Tickets sales by state / county / province for a given country, filterable by order status.
  * Version:              1.0.0
  * Author:               Rodolfo Melogli
- * Author URI:           https://salesbystate.com/
+ * Author URI:           https://www.businessbloomer.com/
  * Developer:            Rodolfo Melogli
- * Developer URI:        https://salesbystate.com/
+ * Developer URI:        https://www.businessbloomer.com/
  * Text Domain:          sales-by-state-report-for-event-tickets
  * Domain Path:          /languages
  * Requires at least:    6.4
- * Tested up to:         7.1
  * Requires PHP:         7.4
  * Requires Plugins:     event-tickets
  * License:              GPL-2.0-or-later
